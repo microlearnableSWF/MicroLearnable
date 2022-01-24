@@ -1,0 +1,4 @@
+name: Link Firebase to Dartpad
+mode: flutter
+files:
+  - name: main.dart

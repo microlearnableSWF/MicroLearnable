@@ -1,0 +1,4 @@
+name: Firestore - Create and Read
+mode: flutter
+files:
+  - name: main.dart

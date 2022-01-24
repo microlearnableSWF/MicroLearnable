@@ -1,0 +1,4 @@
+name: Authentication - Anonymous
+mode: flutter
+files:
+  - name: main.dart

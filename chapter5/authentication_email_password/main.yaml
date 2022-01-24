@@ -1,0 +1,4 @@
+name: Authentication - Email, Password
+mode: flutter
+files:
+  - name: main.dart

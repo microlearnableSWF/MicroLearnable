@@ -1,0 +1,4 @@
+name: Navigator
+mode: flutter
+files:
+  - name: main.dart

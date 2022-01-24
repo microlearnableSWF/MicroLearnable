@@ -1,0 +1,4 @@
+name: Switch
+mode: flutter
+files:
+  - name: main.dart

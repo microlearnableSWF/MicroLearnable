@@ -1,0 +1,4 @@
+name: StreamBuilder
+mode: flutter
+files:
+  - name: main.dart

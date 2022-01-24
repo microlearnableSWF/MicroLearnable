@@ -1,0 +1,4 @@
+name: Radio
+mode: flutter
+files:
+  - name: main.dart

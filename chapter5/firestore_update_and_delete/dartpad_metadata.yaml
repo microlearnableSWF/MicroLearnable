@@ -1,0 +1,4 @@
+name: Firestore - Update and Delete
+mode: flutter
+files:
+  - name: main.dart
