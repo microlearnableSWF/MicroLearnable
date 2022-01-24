@@ -1,0 +1,4 @@
+name: SnackBar
+mode: flutter
+files:
+  - name: main.dart
