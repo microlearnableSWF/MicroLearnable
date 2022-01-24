@@ -1,0 +1,4 @@
+name: Row
+mode: flutter
+files:
+  - name: main.dart

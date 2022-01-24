@@ -1,0 +1,4 @@
+name: Container
+mode: flutter
+files:
+  - name: main.dart

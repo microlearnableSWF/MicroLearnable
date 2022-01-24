@@ -1,0 +1,4 @@
+name: Divider
+mode: flutter
+files:
+  - name: main.dart

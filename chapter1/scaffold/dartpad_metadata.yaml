@@ -1,0 +1,4 @@
+name: Scaffold
+mode: flutter
+files:
+  - name: main.dart

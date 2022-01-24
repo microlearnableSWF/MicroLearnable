@@ -1,0 +1,4 @@
+name: Image
+mode: flutter
+files:
+  - name: main.dart

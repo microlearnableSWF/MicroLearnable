@@ -1,0 +1,5 @@
+name: MicroProject5
+mode: flutter
+files:
+  - name: main.dart
+  - name: solution.dart

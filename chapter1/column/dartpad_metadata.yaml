@@ -1,0 +1,4 @@
+name: Column
+mode: flutter
+files:
+  - name: main.dart
