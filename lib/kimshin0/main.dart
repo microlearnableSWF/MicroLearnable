@@ -8,7 +8,7 @@ dynamic main_test() {
 
 // test ing 중입니다.
 // testing added
-// third test
+
 void main() {
   try {
     final num = main_test(); 
@@ -22,6 +22,20 @@ void main() {
     _result(false, ['Tried calling main_test(), but received an exception: ${e.runtimeType}']);
   }
 }
+
+void _result(bool success, [List<String> messages = const []]) {
+  // Join messages into a comma-separated list for inclusion in the JSON array.
+  final joinedMessages = messages.map((m) => '"$m"').join(',');
+  print('__TESTRESULT__ {"success": $success, "messages": [$joinedMessages]}');
+}
+
+// Ensure we have at least one use of `_result`.
+var resultFunction = _result;
+
+// Placeholder for unimplemented methods in dart-pad exercises.
+// ignore: non_constant_identifier_names, sdk_version_never
+Never TODO([String message = '']) => throw UnimplementedError(message);
+
 
 void _result(bool success, [List<String> messages = const []]) {
   // Join messages into a comma-separated list for inclusion in the JSON array.
