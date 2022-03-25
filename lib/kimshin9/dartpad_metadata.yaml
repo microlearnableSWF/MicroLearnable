@@ -1,0 +1,4 @@
+name: Run Flutter Project
+mode: flutter
+files:
+- name: main.dart
